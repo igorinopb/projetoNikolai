@@ -1,0 +1,68 @@
+Break:
+      #Group 1
+      stone:
+        income: 0.00500
+        experience: 0.00500
+      granite:
+        income: 0.00500
+        experience: 0.00500
+      diorite:
+        income: 0.00500
+        experience: 0.00500
+      andesite:
+        income: 0.00500
+        experience: 0.00500
+      coal_ore:
+        income: 0.00500
+        experience: 0.00500
+      coal_ore:
+        income: 0.00500
+        experience: 0.00500
+      gold_ore:
+        income: 0.00500
+        experience: 0.00500
+      lapis_ore:
+        income: 0.00500
+        experience: 0.00500
+      redstone_ore:
+        income: 0.00500
+        experience: 0.00500
+      diamond_ore:
+        income: 0.00500
+        experience: 0.00500
+      emerald_ore:
+        income: 0.00500
+        experience: 0.00500
+        
+    Place:
+      #Group 1
+      stone:
+        income: 0.00500
+        experience: 0.00500
+      granite:
+        income: 0.00500
+        experience: 0.00500
+      diorite:
+        income: 0.00500
+        experience: 0.00500
+      andesite:
+        income: 0.00500
+        experience: 0.00500
+      coal_ore:
+        income: 0.00500
+        experience: 0.00500
+      coal_ore:
+        income: 0.00500
+        experience: 0.00500
+      gold_ore:
+        income: 0.00500
+        experience: 0.00500
+      lapis_ore:
+        income: 0.00500
+        experience: 0.00500
+      redstone_ore:
+        income: 0.00500
+        experience: 0.00500
+      diamond_ore:
+        income: 0.00500
+        experience: 0.00500
